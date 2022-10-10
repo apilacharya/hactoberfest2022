@@ -359,5 +359,11 @@
     "github_handle": "AchaRhaah",
     "hacktoberfest_round": "first",
     "role": ["contributor"]
+  },
+  {
+    "name": "Apil Acharya",
+    "github_handle": "apilacharya",
+    "hacktoberfest_round": "third",
+    "role": ["contributor"]
   }
 ]
